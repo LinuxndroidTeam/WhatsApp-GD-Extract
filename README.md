@@ -29,8 +29,8 @@ python -m pip install -r requirements.txt
  ```shell
 pip install gpsoauth && pip install requests==2.23.0
 ```
- 3. Paste Google Login & Android_id in `settings.cfg`.
- 4. Run Command and Extract All data from Google Drive.
+ 4. Paste Google Login & Android_id in `settings.cfg`.
+ 5. Run Command and Extract All data from Google Drive.
  ```shell
 python WhatsAppGDExtract.py sync
 ```
