@@ -16,6 +16,10 @@ adb shell settings get secure android_id
  4. Google account login credentials (username and password). App password
     when using 2-factor authentication.
  5. Must Use Windows 10, 11
+
+ ## Youtube Video
+
+[![Watch Video](https://img.youtube.com/vi/Hqnalf3fQms/0.jpg)](https://youtu.be/Hqnalf3fQms)
     
  ## How To Use
 ------------
